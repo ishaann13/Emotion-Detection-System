@@ -1,1 +1,1 @@
-# My-Personal-Projects
+Emotion detection has gained significant importance in various domains, including human-computer interaction, healthcare, and marketing. This project aims to develop an Emotion Detection System using advanced machine learning techniques to accurately identify and analyze human emotions from facial expressions.
